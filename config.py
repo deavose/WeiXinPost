@@ -1,8 +1,8 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx3d147140fb3cab90"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "magnet:?xt=urn:btih:9b84ba060d9046d6dfe775007ddbd948"
 # 模板消息id
 # 每日消息
 template_id1 = "wX-************************************"
@@ -110,3 +110,4 @@ classes = \
 # 第四讲: {{fourthClass.DATA}}
 # 第五讲: {{fifthClass.DATA}}
 # 第六讲: {{sixthClass.DATA}}
+
